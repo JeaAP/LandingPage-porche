@@ -2,8 +2,10 @@
 
 This project is a **task submission for Dicoding**. It features a sleek, responsive landing page inspired by Porsche's luxury branding. Built using basic web technologies — **HTML**, **CSS**, and **JavaScript**.
 
-![Porsche Landing Page Preview](https://jeaap.github.io/LandingPage-porche/)
+---
 
+## 🖥️ View the website here:  
+👉 [https://jeaap.github.io/LandingPage-porche/](https://jeaap.github.io/LandingPage-porche/)
 
 ---
 
